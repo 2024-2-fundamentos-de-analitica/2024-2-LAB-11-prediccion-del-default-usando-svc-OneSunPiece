@@ -15,7 +15,7 @@ Ejecute los siguientes comandos en el terminal:
 ```bash
 python3 -m venv .venv
 .venv\Scripts\activate
-setup
+setupasd
 ```
 
 # Ejecución de pruebas
